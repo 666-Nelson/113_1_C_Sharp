@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TexyBoxDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5931bb280a2c2d384279f77666cc2396da24601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1ae415b77041f910f4ee4dd707d1cdb4a1ddd42")]
 [assembly: System.Reflection.AssemblyProductAttribute("TexyBoxDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TexyBoxDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

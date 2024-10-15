@@ -1,0 +1,17 @@
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\bin\Debug\net8.0-windows\113-10-15-1.exe
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\bin\Debug\net8.0-windows\113-10-15-1.deps.json
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\bin\Debug\net8.0-windows\113-10-15-1.runtimeconfig.json
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\bin\Debug\net8.0-windows\113-10-15-1.dll
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\bin\Debug\net8.0-windows\113-10-15-1.pdb
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\_113_10_15_1.Form1.resources
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.csproj.GenerateResource.cache
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.AssemblyInfoInputs.cache
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.AssemblyInfo.cs
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.csproj.CoreCompileInputs.cache
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.sourcelink.json
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.dll
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\refint\113-10-15-1.dll
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.pdb
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\113-10-15-1.genruntimeconfig.cache
+C:\Users\shu\Documents\GitHub\113_1_C_Sharp\113-10-15\113-10-15-1\113-10-15-1\obj\Debug\net8.0-windows\ref\113-10-15-1.dll

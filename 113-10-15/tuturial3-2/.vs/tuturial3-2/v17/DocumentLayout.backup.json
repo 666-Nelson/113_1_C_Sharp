@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\tuturial3-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B3F04-6168-4725-BA07-C71CB3C26CC6}|tuturial3-2\\tuturial3-2.csproj|c:\\users\\shu\\documents\\github\\113_1_c_sharp\\113-10-15\\tuturial3-2\\tuturial3-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D9B3F04-6168-4725-BA07-C71CB3C26CC6}|tuturial3-2\\tuturial3-2.csproj|solutionrelative:tuturial3-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B3F04-6168-4725-BA07-C71CB3C26CC6}|tuturial3-2\\tuturial3-2.csproj|c:\\users\\shu\\documents\\github\\113_1_c_sharp\\113-10-15\\tuturial3-2\\tuturial3-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9B3F04-6168-4725-BA07-C71CB3C26CC6}|tuturial3-2\\tuturial3-2.csproj|solutionrelative:tuturial3-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\tuturial3-2\\tuturial3-2\\Form1.cs",
+              "RelativeDocumentMoniker": "tuturial3-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\tuturial3-2\\tuturial3-2\\Form1.cs*",
+              "RelativeToolTip": "tuturial3-2\\Form1.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:45:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\tuturial3-2\\tuturial3-2\\Form1.cs",
+              "RelativeDocumentMoniker": "tuturial3-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-15\\tuturial3-2\\tuturial3-2\\Form1.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "tuturial3-2\\Form1.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:37:35.059Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

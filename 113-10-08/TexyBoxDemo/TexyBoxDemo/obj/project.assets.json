@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-08\\TexyBoxDemo\\TexyBoxDemo\\TexyBoxDemo.csproj",
+      "projectUniqueName": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-08\\TexyBoxDemo\\TexyBoxDemo\\TexyBoxDemo.csproj",
       "projectName": "TexyBoxDemo",
-      "projectPath": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-08\\TexyBoxDemo\\TexyBoxDemo\\TexyBoxDemo.csproj",
+      "projectPath": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-08\\TexyBoxDemo\\TexyBoxDemo\\TexyBoxDemo.csproj",
       "packagesPath": "C:\\Users\\shu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shu\\Desktop\\113_1_C_Sharp\\113-10-08\\TexyBoxDemo\\TexyBoxDemo\\obj\\",
+      "outputPath": "C:\\Users\\shu\\Documents\\GitHub\\113_1_C_Sharp\\113-10-08\\TexyBoxDemo\\TexyBoxDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
