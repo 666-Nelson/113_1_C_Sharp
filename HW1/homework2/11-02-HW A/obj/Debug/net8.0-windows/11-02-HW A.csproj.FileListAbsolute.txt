@@ -1,0 +1,17 @@
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\bin\Debug\net8.0-windows\11-02-HW A.exe
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\bin\Debug\net8.0-windows\11-02-HW A.deps.json
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\bin\Debug\net8.0-windows\11-02-HW A.runtimeconfig.json
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\bin\Debug\net8.0-windows\11-02-HW A.dll
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\bin\Debug\net8.0-windows\11-02-HW A.pdb
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\_11_02_HW_A.Form1.resources
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.csproj.GenerateResource.cache
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.AssemblyInfoInputs.cache
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.AssemblyInfo.cs
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.csproj.CoreCompileInputs.cache
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.sourcelink.json
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.dll
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\refint\11-02-HW A.dll
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.pdb
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\11-02-HW A.genruntimeconfig.cache
+C:\Users\Nelson\Desktop\113_1_C_Sharp\HW1\homework2\11-02-HW A\obj\Debug\net8.0-windows\ref\11-02-HW A.dll
